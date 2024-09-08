@@ -13,3 +13,7 @@ h1 {
   .box img {
     width: 400px;
   }
+
+  img {
+    max-width: 400;
+  }
